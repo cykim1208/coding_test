@@ -1,2 +1,1 @@
-# created by chaeyoon kim
-# coding_test
+# Created by chaeyoon kim for coding_test
